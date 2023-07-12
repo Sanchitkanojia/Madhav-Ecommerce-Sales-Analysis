@@ -8,8 +8,11 @@
 Important Procedure implemented on this project:-
 
 📍 Created an interactive dashboard to track and analyze online sales data.
+
 📍 Used complex parameters to drill down in worksheets and customization using filters and slicers.
+
 📍 The data through donut charts, stacked bar charts, stacked column charts, and cards 📈 📊 .
+
 📍 Slicers were added to enable easy exploration of quarterly and state-wise data in a single view 📰 📋 
 
 ![Screenshot (37)](https://github.com/Sanchitkanojia/Madhav-Ecommerce-Sales-Analysis/assets/121440897/57a0aa9f-1793-4bcf-9fde-3327243b577b)
