@@ -14,24 +14,34 @@ Important Procedure implemented on this project:-
 
 ![Screenshot (37)](https://github.com/Sanchitkanojia/Madhav-Ecommerce-Sales-Analysis/assets/121440897/57a0aa9f-1793-4bcf-9fde-3327243b577b)
 
-###𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬 :-
+## 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬 :-
 
 ✅ #Maharashtra led with the highest Sum of Amount,
 contributing 40.79% to the total. Other top states were
 #MadhyaPradesh, #UttarPradesh, and #Delhi 💹 .
+
+
 ✅ 🤵 Harivansh emerged as the top-selling brand with
 the highest Sum of Amount, accounting for 29.67% of
 sales. Madhav, Madan Mohan, and Shiva closely
 followed.
+
+
 ✅ Clothing dominated the product categories with
 the highest Sum of Quantity, making up 62.62% of
 total sales. Electronics and Furniture also performed
 well.
+
+
 ✅ Cash on Delivery (COD) transactions represented
 43.74% of total sales 💷 .
+
+
 ✅ Printers generated the highest Sum of Profit,
 surpassing other product categories by 174.16% 🖨 .
 Tables had the lowest Sum of Profit.
+
+
 ✅ November emerged as the most profitable month,
 with the highest Sum of Profit 💹 . May had the lowest
 Sum of Profit.
