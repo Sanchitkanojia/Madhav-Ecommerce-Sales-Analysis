@@ -17,7 +17,7 @@ Important Procedure implemented on this project:-
 
 ![Screenshot (37)](https://github.com/Sanchitkanojia/Madhav-Ecommerce-Sales-Analysis/assets/121440897/57a0aa9f-1793-4bcf-9fde-3327243b577b)
 
-# 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬 :-
+𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬 :-
 
 ✅ #Maharashtra led with the highest Sum of Amount,
 contributing 40.79% to the total. Other top states were
